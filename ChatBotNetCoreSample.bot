@@ -1,0 +1,15 @@
+{
+    "name": "ChatBotNetCoreSample",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "3f178ee0-71e8-11e8-bdbc-4339bfc33203",
+            "name": "http://localhost:50622/api/messages",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:50622/api/messages"
+        }
+    ]
+}
